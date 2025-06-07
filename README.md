@@ -1,6 +1,8 @@
 # Number-guessing-Game
 Project URL
-https://github.com/glitchy-champ/Number-guessing-Game
+https://roadmap.sh/projects/number-guessing-game
+This project is a python project from roadmap.sh
+
 
 
 
