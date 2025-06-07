@@ -1,4 +1,6 @@
 # Number-guessing-Game
+Project URL
+https://github.com/glitchy-champ/Number-guessing-Game
 This is an Advanced version of the basic python number guessing game
 To play the number game, simply run the program on the terminal or anywhere else.
 First of all, you will need to choose a difficulty level,
